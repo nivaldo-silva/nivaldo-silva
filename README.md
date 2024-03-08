@@ -1,7 +1,7 @@
 ### Olá! eu sou o Nivaldo🖐️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivaldo-silva-5a8335289) 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nivaldosilva.contato@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]((81)994146654)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]((81) 994146654)
 
 ![Nivaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivaldo-Silva&show_icons=true&theme=tokyonight)
 
