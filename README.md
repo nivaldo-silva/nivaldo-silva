@@ -49,49 +49,22 @@
         <span>PostgreSQL</span>
       </td>
      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-        <br>
-        <span>MongoDB</span>
-      </td>
-     <td width="25%" align="center">
         <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
         <br>
         <span>Docker</span>
       </td>
-     <td width="25%" align="center">
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
-        <br>
-        <span>Kubernetes</span>
-    </td>
-   </tr>
-   <tr>
-     <td width="25%" align="center">
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg">
-        <br>
-        <span>JUnit5</span>
-    </td>
-    <td width="25%" align="center">
+      <td width="25%" align="center">
         <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
         <br>
         <span>Postman</span>
     </td>
-    <td width="25%" align="center">
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg">
-        <br>
-        <span>Kafka</span>
-    </td>
-    <td width="25%" align="center">
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-        <br>
-        <span>AWS</span>
-    </td>
-    <td width="25%" align="center">
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+     <td width="25%""align="center">>
+      <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
         <br>
         <span>GIT</span>
     </td>
-   </tr>
-</tbody>
+    </tr>
+   </tbody>
 </table>
 <br>
 
