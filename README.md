@@ -1,6 +1,9 @@
 
-## Meu nome é Nivaldo Silva e sou Desenvolvedor Java 💻
+## Olá Meu nome é Nivaldo Silva e sou Desenvolvedor Java 💻
+
+👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá (2022 - 2024)
 📌 Moro em Recife - Pernambuco<br>
+
 <div>
   <a href="https://www.linkedin.com/in/nivaldo-silva-5a8335289" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
