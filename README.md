@@ -1,8 +1,10 @@
-## Meu nome é Nivaldo Silva e sou **Desenvolvedor Java** 💻
+# Olá 👋, Meu nome é Nivaldo e sou **Desenvolvedor Java** 💻
 
 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá (2022 - 2024)  
 🌐 Apaixonado por desenvolvimento web  
 📌 Moro em Recife - Pernambuco
+
+## Tenho paixão pela programação e acredito que a tecnologia pode mudar o mundo de forma positiva
 
 ---
 
@@ -49,14 +51,6 @@
 
 ### Minhas Estatísticas
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivaldosilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="140" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nivaldosilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2" height="140" alt="Línguas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nivaldosilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="140" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nivaldosilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="140" alt="Línguas" />
 </div>
-
-
-
-
-
-
-
-
