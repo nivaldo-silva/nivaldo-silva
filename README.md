@@ -3,7 +3,7 @@
 🌐 Apaixonado por desenvolvimento web <br/>
 📌 Moro em Recife - Pernambuco<br>
 
-###### <div>
+### <div>
 <a href="https://www.linkedin.com/in/nivaldo-silva-5a8335289" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:nivaldosilva.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
