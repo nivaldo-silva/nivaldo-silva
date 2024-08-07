@@ -1,7 +1,7 @@
 
 ## Olá Meu nome é Nivaldo Silva e sou Desenvolvedor Java 💻
 
-👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá (2022 - 2024)
+👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá (2022 - 2024) <br/>
 📌 Moro em Recife - Pernambuco<br>
 
 <div>
