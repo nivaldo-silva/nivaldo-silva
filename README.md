@@ -38,3 +38,25 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="Kubernetes" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />
+</div>
+
+---
+
+### Minhas Estatísticas
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nivaldosilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="140" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nivaldosilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2" height="140" alt="Línguas" />
+</div>
+
+
+
+
+
+
+
+
