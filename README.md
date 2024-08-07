@@ -2,12 +2,17 @@
 ## Meu nome é Nivaldo Silva e sou Desenvolvedor Java 💻
 📌 Moro em Recife - Pernambuco<br>
 <div>
-<a href="https://www.linkedin.com/in/nivaldo-silva-5a8335289" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:nivaldosilva.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nivaldo-silva-5a8335289" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:nivaldosilva.contato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
 
 <p align="center">
-  <img height="520px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif?raw=true" />
+  <img height="300px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif?raw=true" />
+</p>
 
 ## Minhas Tecnologias
 <div align="left">
@@ -30,12 +35,12 @@
 
 ## Minhas Estatisticas
 
-###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivaldosilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nivaldosilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nivaldosilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=39ff14&text_color=39ff14&icon_color=39ff14&bg_color=000000&border_color=39ff14&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nivaldosilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=39ff14&text_color=39ff14&icon_color=39ff14&bg_color=000000&border_color=39ff14&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+
 
 
 
