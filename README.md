@@ -1,72 +1,34 @@
-## Olá! Eu sou o Nivaldo Silva 👋
 
+## Meu nome é Nivaldo Silva e sou Desenvolvedor Java 💻
 📌 Moro em Recife - Pernambuco<br>
-💻 Desenvolvedor Backend
 <div>
 <a href="https://www.linkedin.com/in/nivaldo-silva-5a8335289" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:nivaldosilva.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## Softwares, Linguagens, Frameworks e Tecnologias que utilizo:
-<table>
-  <tbody>
-    <tr>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-        <br>
-        <span>HTML5</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-        <br>
-        <span>CSS3</span>
-      </td>
-     <td width="25%" align="center">
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-        <br>
-        <span>Java</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-        <br>
-        <span>Spring<span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-        <br>
-        <span>Angular</span>
-      </td>
-    </tr>
-    <tr>
-     <td width="25%" align="center">
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-        <br>
-        <span>Bootstrap</span>
-      </td>
-     <td width="25%" align="center">
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-        <br>
-        <span>PostgreSQL</span>
-      </td>
-     <td width="25%" align="center">
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-        <br>
-        <span>Docker</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-        <br>
-        <span>Postman</span>
-    </td>
-     <td width="25%""align="center">>
-      <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-        <br>
-        <span>GIT</span>
-    </td>
-    </tr>
-   </tbody>
-</table>
-<br>
+## My Techs
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+</div>
+
+
+    
+    
+       
 
 
 
