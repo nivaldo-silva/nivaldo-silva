@@ -6,7 +6,7 @@
 <a href = "mailto:nivaldosilva.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## My Techs
+## Minhas Tecnologias
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
   <img width="12" />
