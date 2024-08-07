@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
 
-## My Stats
+## Minhas Estatisticas
 
 ###
 
