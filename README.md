@@ -1,10 +1,10 @@
-# Olá 👋, Meu nome é Nivaldo e sou **Desenvolvedor Java** 💻
+## Olá 👋, Meu nome é Nivaldo e sou **Desenvolvedor Java** 💻
 
 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá (2022 - 2024)  
 🌐 Apaixonado por desenvolvimento web  
 📌 Moro em Recife - Pernambuco
 
-## Tenho paixão pela programação e acredito que a tecnologia pode mudar o mundo de forma positiva
+##### Tenho paixão pela programação e acredito que a tecnologia pode mudar o mundo de forma positiva
 
 ---
 
