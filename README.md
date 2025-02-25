@@ -4,9 +4,7 @@
 🌐 Apaixonado por desenvolvimento web  
 📌 Moro em Recife - Pernambuco
 
----
-
-### Codar em Java com Spring é como construir castelos de código – forte, escalável e cheio de possibilidades! 🏰💻🚀
+#### Codar em Java com Spring é como construir castelos de código – forte, escalável e cheio de possibilidades! 🏰💻🚀
 
 ---
     
