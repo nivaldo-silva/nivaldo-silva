@@ -4,8 +4,6 @@
 🌐 Apaixonado por desenvolvimento web  
 📌 Moro em Recife - Pernambuco
 
-### Tenho paixão pela programação e acredito que a tecnologia pode mudar o mundo de forma positiva
-
 ---
 
 ### Contatos
