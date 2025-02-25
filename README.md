@@ -1,9 +1,15 @@
-## Olá 👋, Meu nome é Nivaldo e sou **Desenvolvedor Java** 💻
+## ✅ Oi, sou o Nivaldo! Codando em Java todos os dias 🚀💻
 
 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá (2022 - 2024)  
 🌐 Apaixonado por desenvolvimento web  
 📌 Moro em Recife - Pernambuco
 
+---
+
+## Codar em Java com Spring é como construir castelos de código – forte, escalável e cheio de possibilidades! 🏰💻🚀
+
+---
+    
 ### Contatos
 <div>
   <a href="https://www.linkedin.com/in/nivaldo-silva-5a8335289" target="_blank">
