@@ -4,8 +4,6 @@
 🌐 Apaixonado por desenvolvimento web  
 📌 Moro em Recife - Pernambuco
 
----
-
 ### Contatos
 <div>
   <a href="https://www.linkedin.com/in/nivaldo-silva-5a8335289" target="_blank">
