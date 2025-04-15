@@ -4,10 +4,6 @@
 🌐 Apaixonado por desenvolvimento web  
 📌 Moro em Recife - Pernambuco
 
-### Codar em Java com Spring é como construir castelos de código – forte, escalável e cheio de possibilidades! 
-
----
-    
 ### Contatos
 <div>
   <a href="https://www.linkedin.com/in/nivaldo-silva-5a8335289" target="_blank">
