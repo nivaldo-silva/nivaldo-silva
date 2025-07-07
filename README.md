@@ -1,14 +1,20 @@
-## ✅ Oi, sou o Nivaldo! Codando em Java todos os dias 🚀💻
+### 👨‍💻 Olá, seja bem-vindo ao meu perfil no Github
+  * Meu nome é Nivaldo Silva, eu sou Desenvolvedor Java!
 
-👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá (2022 - 2024)  
-🌐 Apaixonado por desenvolvimento web  
-📌 Moro em Recife - Pernambuco
+### 🎯 Sobre Mim
+💻 Apaixonado por construir aplicações web modernas, com foco em **APIs RESTful** e **Microsserviços**. <br/>
+👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas (Estácio, 2024).<br/>
+⚽ Apaixonado por futebol, tecnologia e aprendizado contínuo.<br/>
+💡 Sempre em busca de desafios que combinem inovação e impacto real. <br/>
+📌 Localização: Recife, PE
 
-### Contatos
+### 📫 Vamos nos Conectar? 
+Envie uma mensagem para discutirmos como posso agregar valor ao seu time!
 <div>
   <a href="https://www.linkedin.com/in/nivaldo-silva-5a8335289" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <br/>
   <a href="mailto:nivaldosilva.contato@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -17,7 +23,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif?raw=true" height="350" alt="GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif?raw=true" height="200" alt="GIF" />
 </p>
 
 ---
