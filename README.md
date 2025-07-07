@@ -1,14 +1,14 @@
-### 👨‍💻 Olá, seja bem-vindo ao meu perfil no Github
+## 👨🏻‍💻 Olá, seja bem-vindo ao meu perfil no Github
   * Meu nome é Nivaldo Silva, eu sou Desenvolvedor Java!
 
-### 🎯 Sobre Mim
+## 🎯 Sobre Mim
 💻 Apaixonado por construir aplicações web modernas, com foco em **APIs RESTful** e **Microsserviços**. <br/>
-👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas (Estácio, 2024).<br/>
+👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas - Estácio 2024.<br/>
 ⚽ Apaixonado por futebol, tecnologia e aprendizado contínuo.<br/>
 💡 Sempre em busca de desafios que combinem inovação e impacto real. <br/>
 📌 Localização: Recife, PE
 
-### 📫 Vamos nos Conectar? 
+## 📫 Vamos nos Conectar? 
 Envie uma mensagem para discutirmos como posso agregar valor ao seu time!
 <div>
   <a href="https://www.linkedin.com/in/nivaldo-silva-5a8335289" target="_blank">
@@ -40,16 +40,15 @@ Envie uma mensagem para discutirmos como posso agregar valor ao seu time!
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="Kubernetes" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />
+  <img width="12" /> 
 </div>
 
 ---
+
+<img src="https://raw.githubusercontent.com/angelicaweiler/angelicaweiler/output/snake.svg" alt="Snake animation" />
 
 ### Minhas Estatísticas
 <div align="left">
