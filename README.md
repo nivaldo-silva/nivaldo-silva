@@ -40,7 +40,7 @@ Trabalho com o ecossistema **Spring** para criar APIs RESTful e arquiteturas de 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java" width="48" title="Java 21"/>
+<img src="https://skillicons.dev/icons?i=java" width="48" title="Java"/>
 <img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring Boot"/>
 <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL"/>
 <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL"/>
