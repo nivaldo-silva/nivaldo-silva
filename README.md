@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivaldo-silva-5a8335289)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivaldosilva.contato@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5581994146654)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nivaldo-silva)
 ![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-6db33f?style=for-the-badge&logoColor=white)
 
@@ -78,23 +79,14 @@ Trabalho com o ecossistema **Spring** para criar APIs RESTful e arquiteturas de 
 
 ---
 
-## 📫 Fale Comigo
-
 <div align="center">
-
-<div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhlOHRqZHk2Zms4aTFkZ3c5ZGJyb2ViNW56eWQ5d3p3MzZ1NmppNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVvcpqq3R34dClYgee/giphy.gif" width="300"/>  
-
-> Estou disponível para **oportunidades CLT ou PJ**, colaborações open source e networking técnico.
-> Respondo rápido — pode chamar! 👇
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivaldo-silva-5a8335289)
-&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Enviar%20E%E2%80%93mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivaldosilva.contato@gmail.com)
+> "Qualquer tolo pode escrever código que um computador entenda. Bons programadores escrevem código que humanos entendam."
+> **Martin Fowler**
 
-<br/>
+ <br/>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=nivaldo-silva&color=6db33f&style=for-the-badge&label=VISITANTES+DO+PERFIL)
 
