@@ -32,11 +32,7 @@ Trabalho com o ecossistema **Spring** para criar APIs RESTful e arquiteturas de 
 
 📍 Recife, PE — Brasil &nbsp;|&nbsp; 🎓 ADS — Estácio (2024)
 
-<br clear="right"/>
-
 ---
-
-
 
 ## ⚡ Tecnologias & Ferramentas
 
