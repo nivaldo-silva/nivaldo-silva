@@ -83,8 +83,11 @@ Trabalho com o ecossistema **Spring** para criar APIs RESTful e arquiteturas de 
 
 <br/>
 
-> "Qualquer tolo pode escrever código que um computador entenda. Bons programadores escrevem código que humanos entendam."
-> — **Martin Fowler**
+<p align="center">
+    <i>"Qualquer tolo pode escrever código que um computador entenda. <br/>
+    Bons programadores escrevem código que humanos entendam."</i><br/>
+    — <b>Martin Fowler</b>
+  </p>
 
  <br/>
 
