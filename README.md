@@ -59,7 +59,7 @@ Trabalho com o ecossistema **Spring** para criar APIs RESTful e arquiteturas de 
 
 | Categoria | Tecnologias |
 |:---|:---|
-| **Linguagem** | ![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Linguagem** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6db33f?style=flat-square&logo=springsecurity&logoColor=white) ![Spring Data](https://img.shields.io/badge/Spring%20Data-6db33f?style=flat-square&logo=spring&logoColor=white) |
 | **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | **Mensageria** | ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) |
