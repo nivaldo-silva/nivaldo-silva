@@ -36,55 +36,25 @@ Trabalho com o ecossistema **Spring** para criar APIs RESTful e arquiteturas de 
 
 ---
 
-## 🛠 Stack Técnica
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java" width="48" title="Java"/>
-<img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring Boot"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" title="MongoDB"/>
-<img src="https://skillicons.dev/icons?i=redis" width="48" title="Redis"/>
-<img src="https://skillicons.dev/icons?i=kafka" width="48" title="Apache Kafka"/>
-<img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker"/>
-<img src="https://skillicons.dev/icons?i=aws" width="48" title="AWS"/>
-<img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux"/>
-<img src="https://skillicons.dev/icons?i=git" width="48" title="Git"/>
-<img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub"/>
-<img src="https://skillicons.dev/icons?i=postman" width="48" title="Postman"/>
-<img src="https://skillicons.dev/icons?i=idea" width="48" title="IntelliJ IDEA"/>
+## ⚡ Tecnologias & Ferramentas
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,postgres,mysql,mongodb,redis,kafka,rabbitmq,docker" height="95" />
+<img src="https://skillicons.dev/icons?i=kubernetes,aws,linux,terraform,nginx,git,github,postman,idea,grafana" height="95" />
 
-| Categoria | Tecnologias |
-|:---|:---|
-| **Linguagem** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6db33f?style=flat-square&logo=springsecurity&logoColor=white) ![Spring Data](https://img.shields.io/badge/Spring%20Data-6db33f?style=flat-square&logo=spring&logoColor=white) |
-| **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Mensageria** | ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) |
-| **DevOps / Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white) |
+<br/>
 
-</div>
+![Backend](https://img.shields.io/badge/Backend-Java%20%7C%20Spring-FF6B35?style=for-the-badge&logo=java&logoColor=white)
+<br/>
+![Database](https://img.shields.io/badge/Banco%20de%20Dados-PostgreSQL%20%7C%20MySQL%20%7C%20MongoDB%20%7C%20Redis-4A90D9?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/>
+![Mensageria](https://img.shields.io/badge/Mensageria-Kafka%20%7C%20RabbitMQ-6C3483?style=for-the-badge&logo=apachekafka&logoColor=white)
+<br/>
+![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20Kubernetes%20%7C%20AWS%20%7C%20Terraform-1E8449?style=for-the-badge&logo=docker&logoColor=white)
+<br/>
+![Observabilidade](https://img.shields.io/badge/Observabilidade-Grafana%20%7C%20Prometheus-E67E22?style=for-the-badge&logo=grafana&logoColor=white)
 
----
-
-## 📊 GitHub em Números
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nivaldo-silva&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=6db33f&icon_color=6db33f&text_color=c9d1d9&bg_color=0d1117&ring_color=6db33f&include_all_commits=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivaldo-silva&layout=compact&theme=github_dark&hide_border=true&title_color=6db33f&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nivaldo-silva&theme=github-dark-blue&hide_border=true&ring=6db33f&fire=6db33f&currStreakLabel=6db33f&sideLabels=6db33f&background=0d1117&dates=8b949e" height="150"/>
-
-<br/><br/>
-
-</div>
 
 ---
 
@@ -117,7 +87,7 @@ Trabalho com o ecossistema **Spring** para criar APIs RESTful e arquiteturas de 
 <div align="center">
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200"/>
 
 > Estou disponível para **oportunidades CLT ou PJ**, colaborações open source e networking técnico.
 > Respondo rápido — pode chamar! 👇
