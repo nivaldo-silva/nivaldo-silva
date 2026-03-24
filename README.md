@@ -83,7 +83,7 @@ Trabalho com o ecossistema **Spring** para criar APIs RESTful e arquiteturas de 
 <div align="center">
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhlOHRqZHk2Zms4aTFkZ3c5ZGJyb2ViNW56eWQ5d3p3MzZ1NmppNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVvcpqq3R34dClYgee/giphy.gif" width="300"/>  
 
 > Estou disponível para **oportunidades CLT ou PJ**, colaborações open source e networking técnico.
 > Respondo rápido — pode chamar! 👇
