@@ -60,8 +60,6 @@ Atuo no desenvolvimento de microsserviços utilizando boas práticas como **Clea
 ---
 <div align="center">
 
-<div align="center">
-
 ```bash
 ┌────────────────────────────── IntelliJ IDEA — Integrated Terminal ──────────────────────────────┐
 │                                                                                                 │
