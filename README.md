@@ -60,16 +60,73 @@ Atuo no desenvolvimento de microsserviços utilizando boas práticas como **Clea
 ---
 <div align="center">
 
-```bash
-┌──────────────────────── IntelliJ IDEA — Terminal ────────────────────────┐
-│ branch: main  ☕ Java  ♨ Spring Boot  🔐 Spring Security                 │
-└──────────────────────────────────────────────────────────────────────────┘
-~/workspace (main) $ mvn clean package && docker build -t api:latest .
-[INFO] Tests: PASS ✅
-[INFO] Build: SUCCESS 🐳
-[INFO] Status: READY TO DEPLOY 🚀
+<div align="center">
 
+```bash
+┌────────────────────────────── IntelliJ IDEA — Integrated Terminal ──────────────────────────────┐
+│                                                                                                 │
+│  🌿 Branch: main          🧑‍💻 User: nivaldo         🖥️ OS: linux                                │
+│  ☕ Java 21              ♨ Spring Boot 3.x        🔐 Spring Security (JWT / OAuth2)              │
+│  🐳 Docker              ☁ AWS Ready              📦 Maven Wrapper                               │
+│                                                                                                 │
+├────────────────────────────────────────── BUILD PIPELINE ───────────────────────────────────────┤
+│                                                                                                 │
+│  ~/workspace (main) $ ./mvnw clean package                                                      │
+│                                                                                                 │
+│  [INFO] Scanning for projects...                                                                │
+│  [INFO] ------------------------------------------------------------------------               │
+│  [INFO] Building api 1.0.0                                                                      │
+│  [INFO] ------------------------------------------------------------------------               │
+│                                                                                                 │
+│  [INFO] --- maven-clean-plugin:3.2.0:clean ---                                                  │
+│  [INFO] Deleting target directory                                                               │
+│                                                                                                 │
+│  [INFO] --- maven-resources-plugin:3.3.1:resources ---                                          │
+│  [INFO] Copying resources                                                                       │
+│                                                                                                 │
+│  [INFO] --- maven-compiler-plugin:3.11.0:compile ---                                            │
+│  [INFO] Compiling 42 source files                                                               │
+│                                                                                                 │
+│  [INFO] --- maven-surefire-plugin:3.2.5:test ---                                                 │
+│  [INFO] Running unit tests...                                                                   │
+│  [INFO] Tests run: 58, Failures: 0, Errors: 0, Skipped: 0                                       │
+│                                                                                                 │
+│  [INFO] --- jacoco-maven-plugin:0.8.11:report ---                                                │
+│  [INFO] Code coverage: 91%                                                                      │
+│                                                                                                 │
+│  [INFO] --- spring-boot-maven-plugin:3.x:repackage ---                                           │
+│  [INFO] Repackaging executable jar                                                              │
+│                                                                                                 │
+│  [INFO] BUILD SUCCESS                                                                           │
+│  [INFO] Total time:  6.842 s                                                                    │
+│                                                                                                 │
+├────────────────────────────────────────── DOCKER BUILD ─────────────────────────────────────────┤
+│                                                                                                 │
+│  ~/workspace (main) $ docker build -t nivaldo/api:latest .                                       │
+│                                                                                                 │
+│  Sending build context to Docker daemon  32.76MB                                                 │
+│  Step 1/6 : FROM eclipse-temurin:21-jdk                                                          │
+│   ---> 8f3c...                                                                                  │
+│  Step 2/6 : COPY target/api.jar app.jar                                                          │
+│   ---> Using cache                                                                              │
+│  Step 3/6 : ENTRYPOINT ["java","-jar","/app.jar"]                                                │
+│   ---> Running in container                                                                     │
+│                                                                                                 │
+│  Successfully built a1b2c3d4                                                                    │
+│  Successfully tagged nivaldo/api:latest                                                         │
+│                                                                                                 │
+├────────────────────────────────────────── FINAL STATUS ─────────────────────────────────────────┤
+│                                                                                                 │
+│  [✔] Tests        : PASS        🧪                                                               │
+│  [✔] Coverage     : 91%         📊                                                               │
+│  [✔] Build        : SUCCESS     📦                                                               │
+│  [✔] Image        : CREATED     🐳                                                               │
+│  [✔] Security     : ENABLED     🔐                                                               │
+│  [✔] Status       : READY       🚀                                                               │
+│                                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
+<br/>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=nivaldo-silva&color=6db33f&style=for-the-badge&label=VISITANTES+DO+PERFIL)
 
