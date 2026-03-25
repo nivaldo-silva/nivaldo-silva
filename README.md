@@ -60,72 +60,29 @@ Atuo no desenvolvimento de microsserviços utilizando boas práticas como **Clea
 ---
 <div align="center">
 
-  
 ```bash
+$ java -jar api.jar
 
-  ┌────────────────────────────── IntelliJ IDEA — Integrated Terminal ──────────────────────────────┐
-│                                                                                                 │
-│          🌿 Branch: main          🧑‍💻 User: nivaldo          🖥️ OS: linux                       │
-│          ☕ Java 21              ♨ Spring Boot 3.x        🔐 Spring Security (JWT / OAuth2)      │
-│                   🐳 Docker              ☁ AWS Ready              📦 Maven Wrapper              │
-│                                                                                                 │
-├────────────────────────────────────────── BUILD PIPELINE ───────────────────────────────────────┤
-│                                                                                                 │
-│                    ~/workspace (main) $ ./mvnw clean package                                    │
-│                                                                                                 │
-│                         [INFO] Scanning for projects...                                         │
-│              [INFO] --------------------------------------------------------                    │
-│                          [INFO] Building api 1.0.0                                              │
-│              [INFO] --------------------------------------------------------                    │
-│                                                                                                 │
-│                   [INFO] --- maven-clean-plugin:3.2.0:clean ---                                 │
-│                        [INFO] Deleting target directory                                         │
-│                                                                                                 │
-│               [INFO] --- maven-resources-plugin:3.3.1:resources ---                             │
-│                           [INFO] Copying resources                                              │
-│                                                                                                 │
-│               [INFO] --- maven-compiler-plugin:3.11.0:compile ---                               │
-│                       [INFO] Compiling 42 source files                                          │
-│                                                                                                 │
-│                [INFO] --- maven-surefire-plugin:3.2.5:test ---                                  │
-│                       [INFO] Running unit tests...                                              │
-│          [INFO] Tests run: 58, Failures: 0, Errors: 0, Skipped: 0                               │
-│                                                                                                 │
-│               [INFO] --- jacoco-maven-plugin:0.8.11:report ---                                  │
-│                        [INFO] Code coverage: 91%                                                │
-│                                                                                                 │
-│              [INFO] --- spring-boot-maven-plugin:3.x:repackage ---                              │
-│                      [INFO] Repackaging executable jar                                          │
-│                                                                                                 │
-│                          [INFO] BUILD SUCCESS                                                   │
-│                       [INFO] Total time:  6.842 s                                               │
-│                                                                                                 │
-├────────────────────────────────────────── DOCKER BUILD ─────────────────────────────────────────┤
-│                                                                                                 │
-│               ~/workspace (main) $ docker build -t nivaldo/api:latest .                         │
-│                                                                                                 │
-│               Sending build context to Docker daemon  32.76MB                                   │
-│                    Step 1/6 : FROM eclipse-temurin:21-jdk                                       │
-│                              ---> 8f3c...                                                       │
-│                  Step 2/6 : COPY target/api.jar app.jar                                         │
-│                             ---> Using cache                                                    │
-│            Step 3/6 : ENTRYPOINT ["java","-jar","/app.jar"]                                     │
-│                          ---> Running in container                                              │
-│                                                                                                 │
-│                       Successfully built a1b2c3d4                                               │
-│                    Successfully tagged nivaldo/api:latest                                       │
-│                                                                                                 │
-├────────────────────────────────────────── FINAL STATUS ─────────────────────────────────────────┤
-│                                                                                                 │
-│                    [✔] Tests        : PASS        🧪                                            │
-│                    [✔] Coverage     : 91%         📊                                            │
-│                    [✔] Build        : SUCCESS     📦                                            │
-│                    [✔] Image        : CREATED     🐳                                            │
-│                    [✔] Security     : ENABLED     🔐                                            │
-│                    [✔] Status       : READY       🚀                                            │
-│                                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.4)
+
+2026-03-25T14:23:33Z  INFO --- [main] c.n.api.ApiApplication  : Starting ApiApplication v1.0.0
+2026-03-25T14:23:33Z  INFO --- [main] o.s.d.j.JpaBaseConfig   : Spring Data JPA — repositories: 5
+2026-03-25T14:23:34Z  INFO --- [main] com.zaxxer.hikari.Hikari: HikariPool-1 - Start completed.
+2026-03-25T14:23:35Z  INFO --- [main] o.s.s.web.DefaultSec    : Securing with [JWT Filter]
+2026-03-25T14:23:36Z  INFO --- [main] o.s.b.w.e.t.TomcatWeb   : Tomcat started on port 8080 (http)
+2026-03-25T14:23:36Z  INFO --- [main] c.n.api.ApiApplication  : Started ApiApplication in 3.499s
+
+┌────────────────────────────────────────────────────────────────────────┐
+│  PORT: 8080    PROFILE: default    STARTUP: 3.499s    STATUS: RUNNING  │
+└────────────────────────────────────────────────────────────────────────┘
 ```
+
 <br/>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=nivaldo-silva&color=6db33f&style=for-the-badge&label=VISITANTES+DO+PERFIL)
