@@ -58,7 +58,6 @@ Atuo no desenvolvimento de microsserviços utilizando boas práticas como **Clea
 </div>
 
 ---
-<div align="center">
 
 ```bash
 $ java -jar api.jar
@@ -71,22 +70,27 @@ $ java -jar api.jar
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::                (v3.2.4)
 
-2026-03-25T14:23:33Z INFO --- [main] c.n.api.ApiApplication  : Starting...
-2026-03-25T14:23:33Z INFO --- [main] o.s.d.j.JpaBaseConfig   : Data JPA repositories: 5
-2026-03-25T14:23:34Z INFO --- [main] com.zaxxer.hikari.Hikari: HikariPool-1 - Started.
-2026-03-25T14:23:35Z INFO --- [main] o.s.s.web.DefaultSec    : Securing with [JWT]
-2026-03-25T14:23:36Z INFO --- [main] o.s.b.w.e.t.TomcatWeb   : Port: 8080 (http)
-2026-03-25T14:23:36Z INFO --- [main] c.n.api.ApiApplication  : Started in 3.499s
+2026-03-25T14:23:33Z  INFO --- [main] c.n.api.ApiApplication  : Starting ApiApplication v1.0.0
+2026-03-25T14:23:33Z  INFO --- [main] o.s.d.j.JpaBaseConfig   : Spring Data JPA — repositories: 5
+2026-03-25T14:23:34Z  INFO --- [main] com.zaxxer.hikari.Hikari: HikariPool-1 - Start completed.
+2026-03-25T14:23:35Z  INFO --- [main] o.s.s.web.DefaultSec    : Securing with [JWT Filter]
+2026-03-25T14:23:36Z  INFO --- [main] o.s.b.w.e.t.TomcatWeb   : Tomcat started on port 8080 (http)
+2026-03-25T14:23:36Z  INFO --- [main] c.n.api.ApiApplication  : Started ApiApplication in 3.499s
 
-┌────────────────────────────────────────────────────────────┐
-│ PORT: 8080 | PROFILE: default | STARTUP: 3.499s | RUNNING ✅ │
-└────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│  PORT: 8080    PROFILE: default    STARTUP: 3.499s    STATUS: RUNNING  │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 <br/>
 
+<div align="center">
+  
 ![Visitor Badge](https://komarev.com/ghpvc/?username=nivaldo-silva&color=6db33f&style=for-the-badge&label=VISITANTES+DO+PERFIL)
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6db33f&height=100&section=footer" width="100%"/>
 
 </div>
+
+
+
 
