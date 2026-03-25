@@ -13,7 +13,7 @@
 
 </div>
 
-## 👨‍💻 Sobre mim
+## 👨🏻‍💻 Sobre mim
 
 > Backend Developer especializado em Java e Spring Boot, focado em construção de APIs escaláveis e sistemas distribuídos.
 
