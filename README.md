@@ -13,7 +13,7 @@
 
 </div>
 
-## 👨🏻‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 > Backend Developer especializado em Java e Spring Boot, focado em construção de APIs escaláveis e sistemas distribuídos.
 
@@ -65,13 +65,11 @@ Atuo no desenvolvimento de microsserviços utilizando boas práticas como **Clea
 │ branch: main  ☕ Java  ♨ Spring Boot  🔐 Spring Security                 │
 └──────────────────────────────────────────────────────────────────────────┘
 ~/workspace (main) $ mvn clean package && docker build -t api:latest .
-
 [INFO] Tests: PASS ✅
 [INFO] Build: SUCCESS 🐳
 [INFO] Status: READY TO DEPLOY 🚀
 
 ```
-<br/>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=nivaldo-silva&color=6db33f&style=for-the-badge&label=VISITANTES+DO+PERFIL)
 
