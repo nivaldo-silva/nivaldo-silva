@@ -59,9 +59,8 @@ Atuo no desenvolvimento de microsserviços utilizando boas práticas como **Clea
 
 ---
 <div align="center">
-<div align="center">
-<pre>
-<code>
+  
+```bash
 ┌────────────────────────────── IntelliJ IDEA — Integrated Terminal ──────────────────────────────┐
 │                                                                                                 │
 │  🌿 Branch: main          🧑‍💻 User: nivaldo         🖥️ OS: linux                                │
@@ -124,9 +123,7 @@ Atuo no desenvolvimento de microsserviços utilizando boas práticas como **Clea
 │  [✔] Status       : READY       🚀                                                               │
 │                                                                                                 │
 └─────────────────────────────────────────────────────────────────────────────────────────────────┘
-</code>
-</pre>
-</div>
+```
 <br/>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=nivaldo-silva&color=6db33f&style=for-the-badge&label=VISITANTES+DO+PERFIL)
