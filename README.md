@@ -2,12 +2,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=25&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=800&lines=Desenvolvendo+Microsservi%C3%A7os+Escal%C3%A1veis+%F0%9F%9A%80;Especialista+em+Spring+Boot+%26+Ecossistema+Java+%E2%98%95;Arquiteturas+de+APIs+RESTful+e+Cloud+Native;Foco+em+Clean+Code,+SOLID+e+DDD;Mensageria+com+RabbitMQ+e+Kafka+%F0%9F%93%AC;Containeriza%C3%A7%C3%A3o+com+Docker+e+Kubernetes+%F0%9F%90%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=20&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=800&lines=Desenvolvendo+Microsservi%C3%A7os+Escal%C3%A1veis+%F0%9F%9A%80;Especialista+em+Spring+Boot+%26+Ecossistema+Java+%E2%98%95;Arquiteturas+de+APIs+RESTful+e+Cloud+Native;Foco+em+Clean+Code,+SOLID+e+DDD;Mensageria+com+RabbitMQ+e+Kafka+%F0%9F%93%AC;Containeriza%C3%A7%C3%A3o+com+Docker+e+Kubernetes+%F0%9F%90%B3)](https://git.io/typing-svg)
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivaldo-silva-5a8335289)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nivaldo-silva)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivaldosilva.contato@gmail.com)
 ![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-6db33f?style=for-the-badge&logoColor=white)
 
