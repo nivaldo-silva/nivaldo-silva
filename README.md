@@ -27,7 +27,7 @@ Atuo no desenvolvimento de microsserviços utilizando boas práticas como **Clea
 
 <br/>
 
-## ⚙️ Stack Tecnológica
+## ⚙️ Tecnologias e Ferramentas
 
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,postgres,mysql,mongodb,redis,kafka,rabbitmq,docker" height="95" />
 <img src="https://skillicons.dev/icons?i=kubernetes,aws,linux,terraform,nginx,git,github,postman,idea,grafana" height="95" />
