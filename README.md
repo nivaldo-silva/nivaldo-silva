@@ -14,7 +14,7 @@ Neste perfil você encontrará projetos, experimentos e estudos que refletem min
 
 ---
 
-### 📈 Atividade Recente
+### 📈 Estatísticas do GitHub
 
 <br/>
 
