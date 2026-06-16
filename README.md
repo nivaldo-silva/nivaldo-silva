@@ -2,21 +2,19 @@
 
 Neste perfil você encontrará projetos, experimentos e estudos que refletem minha trajetória de aprendizado e desenvolvimento profissional com Java, arquitetura de software, APIs REST, microsserviços e tecnologias utilizadas no desenvolvimento de aplicações modernas, sempre com o hábito de pensar no ciclo completo do software e no que acontece depois que o código vai para produção.
 
-### 📬 Onde me encontrar
+## 📬 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivaldosilva-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivaldosilva.contato@gmail.com)
 [![Localização](https://custom-icon-badges.demolab.com/badge/Recife-PE-008080?style=for-the-badge&logo=location&logoColor=white)](https://github.com/nivaldo-silva)
 
-### 🤖 Tecnologias e Ferramentas
-
-<br/>
+## 🤖 Tecnologias e Ferramentas
 
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,postgres,mysql,mongodb,docker,aws,kafka,rabbitmq,git,postman,idea" height="45" />
 
 ---
 
-### 📈 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
 <br/>
 
