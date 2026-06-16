@@ -1,6 +1,9 @@
 ## System.out.println ("Olá, mundo! Eu sou o Nivaldo 👋")
 
-Neste perfil você encontrará projetos, experimentos e estudos que refletem minha trajetória de aprendizado e desenvolvimento profissional com Java, arquitetura de software, APIs REST, microsserviços e tecnologias utilizadas no desenvolvimento de aplicações modernas.
+Neste perfil você encontrará projetos, experimentos e estudos que refletem minha trajetória de aprendizado e desenvolvimento profissional com Java, arquitetura de software, APIs REST, microsserviços e tecnologias utilizadas no desenvolvimento de aplicações modernas, sempre com o hábito de pensar no ciclo completo do software e no que acontece depois que o código vai para produção.
+
+### 📬 Contatos
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivaldosilva-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivaldosilva.contato@gmail.com)
